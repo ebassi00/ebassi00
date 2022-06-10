@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖥 I’m currently a student at 42Roma Luiss
-- 📫 How to reach me: headshotmw0@gmail.com | ebassi@student.42roma.it
+- 📫 How to reach me: bassi.edoardo.13@gmail.com | ebassi@student.42roma.it
 
 <div align="center">
 			
