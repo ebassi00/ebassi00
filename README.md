@@ -24,3 +24,5 @@
 </br>
 
 </div>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
