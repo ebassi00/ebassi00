@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, this is my personal repo for all the projects done in 42 Cursus in Rome.
+
+Almost each project has its own Makefile so it's easier for you to run the program and make all the tests you want.
+
+Or you can just clone into your desktop :\
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48hkzwl004909mg0ond07t5/stats?cursusId=21&coalitionId=124" alt="ebassi's 42 stats" /></a>
