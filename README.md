@@ -16,17 +16,23 @@
 <b>
 <a href="https://github.com/ebassi00?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebassi00&layout=compact&theme=tokyonight" width="440" height="200"></a>	
 </br>
+</div>
 
-<b>Connect with me</br>
+## Connect with me
+<div align="center">
+
 <a href="https://github.com/ebassi00" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://dev.to/ebassi00" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.linkedin.com/in/edoardo-bassi-4131291bb/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
