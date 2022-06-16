@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🖥 I’m currently a student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
 - 📫 How to reach me: bassi.edoardo.13@gmail.com | ebassi@student.42roma.it
 
 <div align="center">
