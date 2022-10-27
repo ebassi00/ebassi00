@@ -7,7 +7,7 @@
 <div align="center">
 			
 ## My 42 stats
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48hkzwl004909mg0ond07t5/stats?cursusId=21&coalitionId=124" alt="ebassi's 42 stats"/></a>
+<a href="https://github.com/ebassi00"><img src="https://badge42.vercel.app/api/v2/cl48hkzwl004909mg0ond07t5/stats?cursusId=21&coalitionId=124" alt="ebassi's 42 stats"/></a>
 </br>
 
 ## My GitHub stats
