@@ -4,6 +4,8 @@
 - ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
 - 📫 How to reach me: bassi.edoardo.13@gmail.com | ebassi@student.42roma.it
 
+![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
+
 <div align="center">
 			
 ## My 42 stats
@@ -31,5 +33,3 @@
 </a>
 
 </div>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
