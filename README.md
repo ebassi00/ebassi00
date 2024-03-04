@@ -9,9 +9,6 @@
 
 ## My GitHub stats
 <a href="https://github.com/ebassi00"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/ebassi00?cardType=level&theme=tokyonight" width="395" height="200"></a> 
-</br>
-
-<b>
 <a href="https://github.com/ebassi00?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebassi00&layout=compact&theme=tokyonight" width="440" height="200"></a>	
 </br>
 </div>
