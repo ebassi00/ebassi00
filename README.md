@@ -8,7 +8,7 @@
 <div align="center">
 
 ## My GitHub stats
-<a href="https://github.com/ebassi00"><img src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebassi00)](https://git.io/awesome-stats-card)" width="395" height="200"></a> 
+<a href="https://github.com/ebassi00"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/ebassi00?cardType=level&theme=tokyonight" width="395" height="200"></a> 
 </br>
 
 <b>
