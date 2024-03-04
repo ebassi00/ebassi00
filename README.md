@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-- 🖥 I’m currently a student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
-- 📫 How to reach me: bassi.edoardo.13@gmail.com | ebassi@student.42roma.it
+- ⌨️ I’m a C, C++ developer with scripting knowledges in Bash and Python. I also know a bit of HTML / CSS / Bootstrap.
+- 📫 How to reach me: bassi.edoardo.13@gmail.com
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
 
 <div align="center">
-			
-## My 42 stats
-<a href="https://github.com/ebassi00"><img src="https://badge42.vercel.app/api/v2/cl48hkzwl004909mg0ond07t5/stats?cursusId=21&coalitionId=124" alt="ebassi's 42 stats"/></a>
-</br>
 
 ## My GitHub stats
-<a href="https://github.com/ebassi00"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/ebassi00?cardType=level&theme=tokyonight" width="395" height="200"></a> 
+<a href="https://github.com/ebassi00"><img src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebassi00)](https://git.io/awesome-stats-card)" width="395" height="200"></a> 
 </br>
 
 <b>
