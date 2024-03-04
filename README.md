@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - ⌨️ I’m a C, C++ developer with scripting knowledges in Bash and Python. I also know a bit of HTML / CSS / Bootstrap.
+- ⚽ My main hobby is football, better to watch than to play 😄😄
 - 📫 How to reach me: bassi.edoardo.13@gmail.com
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ebassi00&&style=flat-square)
